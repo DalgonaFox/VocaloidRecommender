@@ -10,7 +10,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import Markdown from 'react-native-markdown-display';
 
 const statusBarHeight = StatusBar.currentHeight;
-const KEY_GEMINI = ("AIzaSyDyEDmHxiph25rNyeR7aQL8YBRVAS362jo");
+const KEY_GEMINI = ("AIzaSyBkMZKHxtLJSu_AN9EETHZPas32sNXpoZ0");
 
 const genAI = new GoogleGenerativeAI(KEY_GEMINI);
 const model = genAI.getGenerativeModel({ model: "gemini-pro" });
