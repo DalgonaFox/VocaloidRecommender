@@ -13,7 +13,7 @@ const statusBarHeight = StatusBar.currentHeight;
 const KEY_GEMINI = process.env.EXPO_PUBLIC_GEMINI_API_KEY;
 
 const genAI = new GoogleGenerativeAI(KEY_GEMINI);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
 
 export default function App() {
 
