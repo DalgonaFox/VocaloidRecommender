@@ -34,9 +34,3 @@ Abra seu editor de código e abra a pasta onde o projeto está.
 No terminal, use o comando a seguir (certifique-se de estar dentro da pasta do projeto):
 > npx expo start
 - Abra o app Expo Go em seu celular e escaneie o QR Code que aparecerá em seu terminal. ou, se preferir, abra o app pelo link 'localhost:8081'.
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos-432611278/).
